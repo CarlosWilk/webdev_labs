@@ -1,9 +1,15 @@
 h1{
     font-family: 'Puritan', sans-serif;
+    color: brown;
 }
 
 p {
 
     font-family: 'MedievalSharp', cursive;
     font-family: 'Puritan', sans-serif;
+}
+
+b {
+color: rgb(233, 230, 34);
+
 }
