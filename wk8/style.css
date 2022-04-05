@@ -1,0 +1,26 @@
+div {
+    padding-top: 50px;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Puritan', sans-serif;
+    color: brown;
+}
+
+p {
+
+    font-family: 'MedievalSharp', cursive;
+    font-family: 'Puritan', sans-serif;
+}
+
+b {
+color: rgb(233, 230, 34);
+
+}
+
+.flex-container {
+display: flex;
+
+}
